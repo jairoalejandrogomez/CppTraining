@@ -1,2 +1,2 @@
 # C++ Training
-Implementation of basic examples and some data structures using C++11.
+Implementation of simple examples, data structures, games, and basic AI algorithms using C++11.
